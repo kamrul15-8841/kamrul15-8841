@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Md. Kamrul Hasan
-I would like to introduce myself to you as full-stack Larvel devloper and I believe I have the skills, qualifications, and experience necessary to make a significant contribution to your organization. Here I am including my porfolio so tahat you can easily find my details.
+I would like to introduce myself to you as full-stack Laravel devloper and I believe I have the skills, qualifications, and experience necessary to make a significant contribution to your organization. Here I am including my porfolio so tahat you can easily find my details.
 My Portfolio link: (https://kamrulbd.xyz/)
 My GitHub link: https://github.com/kamrul15-8841
 I am self-motivated, energetic, enthusiastic and ever ready to learn new things. I am confident to ensure the highest level of professionalism and commitment to my job.
