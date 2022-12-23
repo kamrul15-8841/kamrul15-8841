@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul15-8841&layout=compact)](https://github.com/kamrul15-8841/github-readme-stats)
 
 <!--
