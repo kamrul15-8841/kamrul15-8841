@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841)](https://github.com/kamrul15-8841/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&bg_color=00000000)
 
 <!--
 **kamrul15-8841/kamrul15-8841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
