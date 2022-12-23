@@ -5,8 +5,8 @@ My GitHub link: https://github.com/kamrul15-8841
 I am self-motivated, energetic, enthusiastic and ever ready to learn new things. I am confident to ensure the highest level of professionalism and commitment to my job.
 I believe working in a reputed organization like your one will provide me an excellent opportunity for my career. I would truly be grateful if I will be finally selected for that post and I will prove myself to be an important asset for your company through my dedication, sincerity and highest level of professionalism.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul15-8841&layout=compact)](https://github.com/kamrul15-8841/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrul15-8841&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul15-8841&layout=compact)](https://github.com/kamrul15-8841/github-readme-stats)
+
 
 <!--
 **kamrul15-8841/kamrul15-8841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
