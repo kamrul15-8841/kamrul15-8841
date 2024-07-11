@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Md. Kamrul Hasan
-### Application Developer(Web and Mobile) at Noman Group
+### Application Developer (Web and Mobile) at Noman Group
 I would like to introduce myself to you as full-stack Laravel, vue js and React Native devloper and I believe I have the skills, qualifications, and experience necessary to make a significant contribution to your organization. Here I am including my porfolio so tahat you can easily find my details.
 My Portfolio link: (https://kamrulbd.xyz/)
 My GitHub link: https://github.com/kamrul15-8841
