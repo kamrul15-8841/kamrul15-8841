@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Md. Kamrul Hasan
 ### Application Developer at Noman Group (Full Stack Web Developer | In-House Software Team) | PHP | Laravel | MySQL 
-Full-stack developer with 2 years of experience in PHP, Laravel, Vue.js, React.js, and MySQL. Skilled in building scalable applications, developing custom business solutions, and optimizing system performance. Familiar with modern frameworks, backend APIs, and agile development. Quick to learn, proactive, and a collaborative team player dedicated to delivering high-quality software solutions.
+Full-stack developer with more than 3 years of experience in PHP, Laravel, React.js, React.js, and MySQL. Skilled in building scalable applications, developing custom business solutions, and optimizing system performance. Familiar with modern frameworks, backend APIs, and agile development. Quick to learn, proactive, and a collaborative team player dedicated to delivering high-quality software solutions.
 
 
 <!--
